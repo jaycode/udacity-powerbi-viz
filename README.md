@@ -1,4 +1,4 @@
-# Udacity Power BI project - Create a Data Model for Seven Sages Company
+# Udacity Power BI project - Waggle
 
 This is my submission for the project mentioned above.
 
